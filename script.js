@@ -40,6 +40,5 @@ function showTask(){
     
 
 }
-localStorage.removeItem("data")
 showTask();
 
